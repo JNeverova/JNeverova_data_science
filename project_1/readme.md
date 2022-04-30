@@ -1,4 +1,4 @@
-# Проект 0. Угадай число
+# Проект 1. Угадай число менее чем за 20 попыток
 
 ## Оглавление
 [1. Описание проекта](https://github.com/JNeverova/JNeverova_data_science/tree/main/project_1/readme.md#Описание-проекта)
